@@ -1,11 +1,3 @@
-# Job Vacancy System
+# Project Title: Job Vacancy System
 
-## This project is built in JavaScript programming language and allows the user to use a job vacancy system.
-
-### The available options are:
-* List available jobs
-* Create new jobs
-* Show job
-* Add a new candidate to a job
-* Delete a job
-* Exit
+## The Job Vacancy System, developed in JavaScript, streamlines job management for employers and candidates alike. This application offers essential features, including the ability to list available job positions, create job listings, explore comprehensive job descriptions, add candidates efficiently, and remove outdated job postings. By simplifying the hiring process, this project serves as a platform, fostering connections between job seekers and potential employers.
